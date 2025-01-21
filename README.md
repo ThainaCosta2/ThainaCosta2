@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou a @ThainaCosta2
-- 👩🏻‍🎓 Estudante do curso de Gestão da Tecnologia da Informação
+- 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação
 - 🌱 Tenho me dedicado ao desenvolvimento Front-end e Back-end, aprendendo sobre as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
 - 💻 Estou buscando oportunidades para colaborar em projetos de tecnologia, com foco em Front-end e Back-end. Meu objetivo é aplicar o que aprendi e ajudar a criar soluções criativas e eficazes.
 - 📫 Sinta-se à vontade para me conectar no LinkedIn: 🔗
