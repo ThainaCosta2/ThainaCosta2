@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou a **@ThainaCosta2**
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação
 - 🌱 Tenho me dedicado ao desenvolvimento Back-end e Front-end, aprendendo sobre as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
-- 💻 Estou buscando oportunidades para colaborar em projetos de tecnologia, com foco em Front-end e Back-end. Meu objetivo é aplicar o que aprendi e ajudar a criar soluções criativas e eficazes.
+- 💻 Atualmente, estou em busca de oportunidades para colaborar em projetos tecnológicos, com foco em Back-end e Front-end. Meu objetivo é aplicar os conhecimentos adquiridos e contribuir para a criação de soluções criativas e eficazes.
 - 📫 Sinta-se à vontade para me conectar no LinkedIn: 🔗
   <a href="https://www.linkedin.com/in/thainacostaj" target="_blank"> Thainá Costa</a> ou me enviar um E-mail: 📧
   thainacosta11@gmail.com
