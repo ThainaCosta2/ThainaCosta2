@@ -34,7 +34,7 @@
 
 #
 <div align="center">
-  <h3><b> Linguagem de Programação </></b></h3>
+  <h3><b> </> Linguagem de Programação 🌐 </b></h3>
 </div>
 
   <a href="https://github.com/ThatianeCosta/github-readme-stats">
