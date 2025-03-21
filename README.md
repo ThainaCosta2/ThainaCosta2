@@ -5,9 +5,9 @@
 - ⚡ Curiosidades: sou fã de jogos de tabuleiro, especialmente xadrez. Estou sempre em busca de novas táticas para me sair bem nas partidas.
 
 ### Sinta-se à vontade para me adicionar 🔗:
-<img src="https://img.shields.io/static/v1?label=Overview&message=ThainaCosta2&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thainacostaj)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ThainaCosta2)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thainacosta11@gmail.com)
 
 ### Hard Skills 👩🏻‍💻⚙:
