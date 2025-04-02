@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou a **@ThainaCosta2**
+- 👋 Olá, eu sou a **@ThainaCosta2**.
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação.
 - 🌱 Tenho me dedicado ao desenvolvimento Back-end e Front-end, aprendendo sobre as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
 - 💻 Atualmente, estou em busca de oportunidades para colaborar em projetos tecnológicos, com foco em Back-end e Front-end. Meu objetivo é aplicar os conhecimentos adquiridos e contribuir para a criação de soluções criativas e eficazes.
