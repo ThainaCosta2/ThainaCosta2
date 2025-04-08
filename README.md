@@ -27,9 +27,11 @@
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #
+<div align="center"> 
   
 [![thainacosta2](https://github-readme-stats.vercel.app/api?username=thainacosta2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
 #
 
 [![thainacosta2](https://github-readme-stats.vercel.app/api/top-langs/?username=thainacosta2&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
