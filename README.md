@@ -35,9 +35,11 @@
 
 #
 
+<div align="center">
+
 [![thainacosta2](https://github-readme-stats.vercel.app/api/top-langs/?username=thainacosta2&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-
+</div>
 ---
 
 <div align="center">
