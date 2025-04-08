@@ -32,6 +32,7 @@
 [![thainacosta2](https://github-readme-stats.vercel.app/api?username=thainacosta2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
 #
 
 [![thainacosta2](https://github-readme-stats.vercel.app/api/top-langs/?username=thainacosta2&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
