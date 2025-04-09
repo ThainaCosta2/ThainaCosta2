@@ -31,17 +31,22 @@
   
 [![thainacosta2](https://github-readme-stats.vercel.app/api?username=thainacosta2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaCosta2&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 #
 
 <div align="center">
 
-[![thainacosta2](https://github-readme-stats.vercel.app/api/top-langs/?username=thainacosta2&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=ThainaCosta2&theme=dracula&hide_border=false)<br/>
 
 </div>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ThainaCosta2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+#
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -55,15 +60,9 @@
 </p>
 
 ---
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThainaCosta2/ThainaCosta2/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThainaCosta2/ThainaCosta2/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ThainaCosta2/ThainaCosta2/output/pacman-contribution-graph.svg">
-</picture>
 
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!---
