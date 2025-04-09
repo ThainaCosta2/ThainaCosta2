@@ -54,7 +54,11 @@
   />
 </p>
 
-<img src="https://raw.githubusercontent.com/thainacosta2/thainacosta2/output/snake.svg" alt="Snake animation" />
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thainacosta2/thainacosta2/output/snake.svg" alt="Snake animation"/>
+</p>
 
 ###
 
