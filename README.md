@@ -9,7 +9,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thainacostaj)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/ThainaCosta2)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](thainacosta11@gmail.com)
-[![portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=6C63FF&logoColor=white&labelColor=&style=for-the-badge)](https://thainacosta2.github.io/Portfolio/)
+[![portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=web&label=&color=bd0065&logoColor=white&labelColor=&style=for-the-badge)](https://thainacosta2.github.io/Portfolio/)
 
 ### Hard Skills 👩🏻‍💻⚙:
 
@@ -31,6 +31,8 @@
 <div align="center"> 
   
 [![thainacosta2](https://github-readme-stats.vercel.app/api?username=thainacosta2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+#
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaCosta2&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
