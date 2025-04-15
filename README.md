@@ -54,6 +54,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ThainaCosta2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
+
+
 #
 
 <div align="center">
