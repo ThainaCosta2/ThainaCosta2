@@ -29,26 +29,14 @@
 ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #
-<div align="center"> 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thainacosta2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=omni&locale=pt-br&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
   
-[![thainacosta2](https://github-readme-stats.vercel.app/api?username=thainacosta2&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-#
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThainaCosta2&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thainacosta2&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
+  
+  <img src="https://streak-stats.demolab.com?user=thainacosta2&locale=pt-br&mode=daily&theme=omni&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
 </div>
-
-#
-
-<div align="center">
-
-![](https://nirzak-streak-stats.vercel.app/?user=ThainaCosta2&theme=dracula&hide_border=false)<br/>
-
-</div>
-
-
-<div align="center">
 
 
 ##
