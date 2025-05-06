@@ -37,15 +37,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thainacosta2&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=omni&hide_border=false&order=2" height="170" alt="languages graph" /> <br>
 
 #  
-  <img src="https://streak-stats.demolab.com?user=thainacosta2&locale=pt-br&mode=daily&theme=omni&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
+  ![](https://nirzak-streak-stats.vercel.app/?user=thainacosta2&theme=omni&hide_border=false)<br/>
 </div>
-
 
 ##
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ThainaCosta2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 </div>
 
 #
