@@ -2,7 +2,7 @@
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação.
 - 🌱 Tenho me dedicado ao desenvolvimento Back-end e Análise de Dados, aprendendo sobre as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
 - 💻 Atualmente, estou em busca de oportunidades para colaborar em projetos tecnológicos, com foco em Back-end e Análise de Dados. Meu objetivo é aplicar os conhecimentos adquiridos e contribuir para a criação de soluções criativas e eficazes.
-- ⚡ Curiosidades: sou fã de jogos de tabuleiro, especialmente xadrez. Estou sempre em busca de novas táticas para me sair bem nas partidas.
+- ⚡ Curiosidades: sou fã de jogos de tabuleiro, especialmente xadrez. Estou sempre em busca de novas táticas para me sair bem nas partidas
 
 ### Sinta-se à vontade para me adicionar 🔗:
 
