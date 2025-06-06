@@ -1,8 +1,8 @@
 - 👋 Olá, eu sou a **@ThainaCosta2**.
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação.
-- 🌱 Tenho me dedicado ao desenvolvimento Back-end e Análise de Dados, aprendendo sobre as melhores práticas e ferramentas para criar aplicações web dinâmicas e interativas.
-- 💻 Atualmente, estou em busca de oportunidades para colaborar em projetos tecnológicos, com foco em Back-end e Análise de Dados. Meu objetivo é aplicar os conhecimentos adquiridos e contribuir para a criação de soluções criativas e eficazes.
-- ⚡ Curiosidades: sou fã de jogos de tabuleiro, especialmente xadrez. Estou sempre em busca de novas táticas para me sair bem nas partidas.
+- 🌱 Tenho me dedicado ao desenvolvimento Back-end e Análise de Dados, com o objetivo de criar soluções robustas e eficientes que aprimorem a experiência do usuário. Durante minha formação, adquiri conhecimentos em diversas tecnologias e metodologias que me permitem desenvolver aplicações web dinâmicas e interativas, sempre buscando as melhores práticas da área.
+- 💻 Atualmente, estou em busca de oportunidades para colaborar em projetos desafiadores que integrem desenvolvimento Back-end e Análise de Dados. Meu objetivo é aplicar meu conhecimento para gerar insights valiosos a partir dos dados e contribuir para construções de soluções inovadoras e impactantes.
+- ⚡ Curiosidades: sou fã de jogos de tabuleiro, especialmente xadrez, que me ajuda a desenvolver meu pensamento estratégico. Também gosto de ler livros e ouvir música, atividades que me proporcionam novas perspectivas e conhecimentos, contribuindo para meu crescimento pessoal e profissional.
 
 ### Sinta-se à vontade para me adicionar 🔗:
 
