@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou a **@ThainaCosta2**.
 - 👩🏻‍🎓 Formada no curso de Gestão da Tecnologia da Informação e atualmente cursando pós-graduação em Ciência de Dados.
-- 🌱 Tenho me dedicado ao desenvolvimento Back-end e Análise de Dados, com o objetivo de criar soluções robustas e eficientes que aprimorem a experiência do usuário. Durante minha formação, adquiri conhecimentos em diversas tecnologias e metodologias que me permitem desenvolver aplicações web dinâmicas e interativas, sempre buscando as melhores práticas da área
+- 🌱 Tenho me dedicado ao desenvolvimento Back-end e Análise de Dados, com o objetivo de criar soluções robustas e eficientes que aprimorem a experiência do usuário. Durante minha formação, adquiri conhecimentos em diversas tecnologias e metodologias que me permitem desenvolver aplicações web dinâmicas e interativas, sempre buscando as melhores práticas da área.
 - 💻 Atualmente, estou em busca de oportunidades para colaborar em projetos desafiadores que integrem desenvolvimento Back-end e Análise de Dados. Meu objetivo é aplicar meu conhecimento para gerar insights valiosos a partir dos dados e contribuir para construções de soluções inovadoras e impactantes.
 - ⚡ Curiosidades: sou fã de jogos de tabuleiro, especialmente xadrez, que me ajuda a desenvolver meu pensamento estratégico. Também gosto de ler livros e ouvir música, atividades que me proporcionam novas perspectivas e conhecimentos, contribuindo para meu crescimento pessoal e profissional.
 
