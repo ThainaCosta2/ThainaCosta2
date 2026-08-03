@@ -10,7 +10,7 @@ Desenvolvedora de Software e pós-graduada em Ciência de Dados, focada no desen
 
 ## 👩🏻‍🎓 Sobre mim
 
-Sou apaixonada por tecnologia e busco criar soluções robustas que gerem valor e aprimorem a experiência do usuário. Meu foco principal está na interseção entre **Desenvolvimento** e **Ciência de Dados**, transformando informações detalhadas em insights estratégicos.
+Sou apaixonada por tecnologia e busco criar soluções robustas que gerem valor e aprimorem a experiência do usuário. Meu foco principal está na interseção entre **Análise de Dados** e **Desenvolvimento**, transformando informações detalhadas em insights estratégicos.
 
 * 🎓 **Formação:** Graduada em Gestão da Tecnologia da Informação.
 * 📊 **Especialização:** Pós-graduada em Ciência de Dados.
