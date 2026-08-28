@@ -1,4 +1,4 @@
-# Olá, eu sou a Thainá Costa! 👋👩🏻‍💻
+# Olá, eu sou a Thainá Costa! 👋👩🏻‍💻 <a href="https://nice-readme.vercel.app/views-badge" target="_blank" rel="noopener noreferrer"><img src="https://komarev.com/ghpvc/?username=t&color=bd0065&style=flat" alt="Profile Views" loading="lazy" /></a> 
 
 Desenvolvedora de Software e pós-graduada em Ciência de Dados, focada no desenvolvimento de soluções web dinâmicas e na análise de dados para tomada de decisões estratégicas.
 
