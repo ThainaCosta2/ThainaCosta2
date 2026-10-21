@@ -1,6 +1,6 @@
 # Olá, eu sou a Thainá Costa! 👋👩🏻‍💻 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thainacosta2.thainacosta2&left_color=black&right_color=%23bd0065" />
 
-Desenvolvedora de Software e pós-graduada em Ciência de Dados, focada no desenvolvimento de soluções web dinâmicas e na análise de dados para tomada de decisões estratégicas.
+Desenvolvedora de Software e pós-graduada em Ciência de Dados, focada no desenvolvimento de soluções web dinâmicas e na análise de dados para tomada de decisões estratégicas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thainacostaj)
 [![Portfólio](https://img.shields.io/badge/Portfólio-bd0065?style=for-the-badge&logo=web&logoColor=white)](https://thainacosta2.github.io/Portfolio/)
