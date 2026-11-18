@@ -41,9 +41,17 @@ Sou apaixonada por tecnologia e busco criar soluções robustas que gerem valor 
 ---
 ### 📊 Estatísticas do GitHub
 
+
 <div align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ThainaCosta2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ThainaCosta2&layout=compact&theme=dracula&hide_border=false" alt="Linguagens mais usadas" />
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api?username=ThainaCosta2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false"
+  />
+
+  <img
+    height="180em"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ThainaCosta2&layout=compact&langs_count=5&theme=dracula&hide_border=false"
+  />
 </div>
 
 ---
